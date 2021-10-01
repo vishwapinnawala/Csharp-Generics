@@ -1,0 +1,6 @@
+C:\Users\WUSC SRILANKA\Documents\Visual Studio 2013\Projects\C#\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\WUSC SRILANKA\Documents\Visual Studio 2013\Projects\C#\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\WUSC SRILANKA\Documents\Visual Studio 2013\Projects\C#\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\WUSC SRILANKA\Documents\Visual Studio 2013\Projects\C#\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\WUSC SRILANKA\Documents\Visual Studio 2013\Projects\C#\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\WUSC SRILANKA\Documents\Visual Studio 2013\Projects\C#\Generics\Generics\obj\Debug\Generics.pdb
